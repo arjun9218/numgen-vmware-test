@@ -12,9 +12,9 @@ Write a spring boot application that generates number:
 
 ### Expectation:
 
-### - Best design practices with modularity and class and type definitions , OO principles to be should be followed;
-### - Documentation to run the code
-### - Relevant test cases;
+#### - Best design practices with modularity and class and type definitions , OO principles to be should be followed;
+#### - Documentation to run the code
+#### - Relevant test cases
 
 | API | METHOD | request | response | 
 | ------ | ------ | ------ | ------ |
